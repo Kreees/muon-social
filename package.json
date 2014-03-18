@@ -2,10 +2,9 @@
     "name": "muon-social",
     "version": "0.0.1",
     "author":"sukharev",
-    "dependencies": {
-        "muon": "*"
-    },
+    "main":"./module.js",
     "devDependencies": {
+	"muon":"*",
         "async": "*",
         "q":"*",
         "underscore":"*",
